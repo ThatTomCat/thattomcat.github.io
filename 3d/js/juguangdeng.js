@@ -2,8 +2,8 @@
 var getID=document.getElementById("geci");
 var afterStyle=window.getComputedStyle(getID,":after");
 
-setTimeout(juguangdeng,300);
-setTimeout(flashing,300);
+setTimeout(juguangdeng,7300);
+setTimeout(flashing,7300);
 
 function juguangdeng(){
 	document.getElementById("juguangdeng").style="display:inline-block;";
