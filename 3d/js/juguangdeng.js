@@ -36,6 +36,7 @@ function flashing_4(){
 }
 
 //歌词
+/*
 function juguangdeng_1(){
 	document.getElementById("juguangdeng").style="left:29%;";
     getID.setAttribute("data-spotlight","你已经不在身边");
@@ -286,4 +287,4 @@ function juguangdeng_21(){
 	setTimeout(juguangdeng_22,1000);
 }
 
-
+*/
