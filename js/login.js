@@ -10,7 +10,7 @@ function checkForm(){
 			alert("密码不能为空！");
 			return false;
 		}
-		if(uname!="pym1203"||pwd!="123456"){		
+		if(uname!="pym"||pwd!="123456"){		
 			alert("账号或密码错误！");
 			return false;
 		}
